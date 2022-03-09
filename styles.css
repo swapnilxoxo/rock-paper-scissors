@@ -1,0 +1,43 @@
+h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+div{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5%;
+}
+
+button {
+    padding: 2%;
+    margin: 1%;
+    font-size: medium;
+    font-weight: 100;    
+}
+
+.playerChoice {
+    padding-bottom: 0;
+}
+
+.computerChoice {
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+.computerScore, .playerScore{
+    display: inline;
+    margin: 50px;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    width: 80px;
+}
+
+.reset {
+    display: flex;
+    justify-content: center;
+}
